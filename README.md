@@ -7,11 +7,11 @@ This calculator has been tested and validated with good results and using in Oce
 Hope it frees your one day afternoon searching. 
 
 
-
+```
   Run source CPP
   type in your characteristic length, for ship generally is the length between perpendiculars. 
   type in your flow velocity, for ship generally is the ship forward speeds. for ship moves in waves, this values may varies slightly. 
-
+```
 Dont forget to apply propeller wave function..
 
 Future work pending.
