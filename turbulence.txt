@@ -1,0 +1,5 @@
+reynolds number: Reynolds 61571.6
+I 0.0403132
+turbulent kinetic energy: k 0.000509118
+turbulence specific dissipation rates: w 189.298
+turbulent kinetic eddy viscosity: nut 4.91035e-06
