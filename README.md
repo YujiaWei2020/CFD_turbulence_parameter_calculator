@@ -8,7 +8,7 @@ Hope it frees your one day afternoon searching.
 
 
 
-Run source CPP /n
+Run source CPP
 type in your characteristic length, for ship generally is the length between perpendiculars. 
 type in your flow velocity, for ship generally is the ship forward speeds. for ship moves in waves, this values may varies slightly. 
 
